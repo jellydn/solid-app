@@ -672,6 +672,11 @@ semver@^6.3.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
+solid-js@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.0.4.tgz#1e3df4b6abe5aba44ff7d2c2a790d38c6c262131"
+  integrity sha512-yPMYlzdxHQAD2TeATrKDG0VBNQUFEVIBBI6uh3Y/fLmh6iID48ldt8ExukHyHwj38MW0mXK421nZu91rRJl99w==
+
 solid-js@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.0.0.tgz#4bbc3f3932c604e2bfcd35d5a7f20408d208288e"
