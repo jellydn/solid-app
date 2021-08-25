@@ -5,7 +5,7 @@ specifiers:
   vite: 2.5.1
   vite-plugin-solid: ^2.0.0
   vite-plugin-windicss: ^1.2.0
-  windicss: 3.1.5
+  windicss: 3.1.7
 
 dependencies:
   solid-js: 1.0.4
@@ -14,7 +14,7 @@ devDependencies:
   vite: 2.5.1
   vite-plugin-solid: 2.0.0
   vite-plugin-windicss: 1.2.5_vite@2.5.1
-  windicss: 3.1.5
+  windicss: 3.1.7
 
 packages:
 
@@ -861,6 +861,12 @@ packages:
 
   /windicss/3.1.5:
     resolution: {integrity: sha512-sGi2YiN6Bp/vWJS0jlpJhMmh7O2TBQ+yTbL6oqoRXz32q1VKELOUMfF+5pdtVL5uoVnfKf4gOUQs2XKNgU30Lw==}
+    engines: {node: '>= 12'}
+    hasBin: true
+    dev: true
+
+  /windicss/3.1.7:
+    resolution: {integrity: sha512-Q/HQ9j+r2R0fdt85zAjccdo11kHWzQmpkuwIUQIO6PSypyDmBTfN14aAy4szLrpgo2woyuHM7Y+kir4IG4qnKQ==}
     engines: {node: '>= 12'}
     hasBin: true
     dev: true
