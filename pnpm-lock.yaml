@@ -1,14 +1,14 @@
 lockfileVersion: 5.3
 
 specifiers:
-  solid-js: 1.0.4
+  solid-js: 1.1.1
   vite: 2.5.1
   vite-plugin-solid: ^2.0.0
   vite-plugin-windicss: ^1.2.0
   windicss: 3.1.7
 
 dependencies:
-  solid-js: 1.0.4
+  solid-js: 1.1.1
 
 devDependencies:
   vite: 2.5.1
@@ -749,8 +749,8 @@ packages:
     resolution: {integrity: sha512-5huTDVyMqZSjg5Sa4mwl15feK4il1cE68n4weL5NYGC8lX2wiDlcHhBdSB8trKgaJ50Q9/pwtLrQngFaDC+5Tw==}
     dev: true
 
-  /solid-js/1.0.4:
-    resolution: {integrity: sha512-yPMYlzdxHQAD2TeATrKDG0VBNQUFEVIBBI6uh3Y/fLmh6iID48ldt8ExukHyHwj38MW0mXK421nZu91rRJl99w==}
+  /solid-js/1.1.1:
+    resolution: {integrity: sha512-BtNNMUjBGtkx4viW5q/oqU4DOHa3WRhylN302cVVIeiBUGw6uzAE+NhNF12bAvSYJOCHLyGHpUEIeWklkeGgsg==}
     dev: false
 
   /solid-refresh/0.2.1_solid-js@1.0.0:
