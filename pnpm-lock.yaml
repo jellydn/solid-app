@@ -4,7 +4,7 @@ specifiers:
   solid-js: 1.1.1
   vite: 2.5.1
   vite-plugin-solid: 2.0.1
-  vite-plugin-windicss: ^1.2.0
+  vite-plugin-windicss: 1.2.0
   windicss: 3.1.7
 
 dependencies:
@@ -13,7 +13,7 @@ dependencies:
 devDependencies:
   vite: 2.5.1
   vite-plugin-solid: 2.0.1
-  vite-plugin-windicss: 1.2.5_vite@2.5.1
+  vite-plugin-windicss: 1.2.0_vite@2.5.1
   windicss: 3.1.7
 
 packages:
@@ -339,26 +339,16 @@ packages:
     resolution: {integrity: sha512-5eQEtSCoESnh2FsiLTxE121IiE60hnMqcb435fShf4bpLRjEu1Eoekht23y6zXS9Ts3l+Szu3TARnTsA0GkOkQ==}
     dev: true
 
-  /@windicss/config/1.2.5:
-    resolution: {integrity: sha512-XzbvVQ9crDRnzHLA9t0atejAIus0X+P4l9SFPmGhUXycI63Ae0SfNzdw5q56MM5Et3Xbtju0esJ89K8bkRe+xA==}
-    dependencies:
-      debug: 4.3.2
-      jiti: 1.10.1
-      windicss: 3.1.5
-    transitivePeerDependencies:
-      - supports-color
-    dev: true
-
-  /@windicss/plugin-utils/1.2.5:
-    resolution: {integrity: sha512-RUFhW5l3YYkuNwYM1u7F/RoIpibULE7qe2N7D/rtiJVDf67lL9S8hjTll1/d7pvvW5XtI+fDuc8GpmGwARg83A==}
+  /@windicss/plugin-utils/1.2.0:
+    resolution: {integrity: sha512-6OAsyz2yI0VKNHACT35FjWWzMZlMEF7Z0pIiNUd9+R9jc73+qJcK1DRCZ3YxnjuGk0G76b542uXQEJgv2jL3vA==}
     dependencies:
       '@antfu/utils': 0.2.4
-      '@windicss/config': 1.2.5
       debug: 4.3.2
       fast-glob: 3.2.7
+      jiti: 1.10.1
       magic-string: 0.25.7
       micromatch: 4.0.4
-      windicss: 3.1.5
+      windicss: 3.1.7
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -787,16 +777,16 @@ packages:
       - supports-color
     dev: true
 
-  /vite-plugin-windicss/1.2.5_vite@2.5.1:
-    resolution: {integrity: sha512-6z2XXQpV0WhSEoyWim4gaWyxrBhszhbufjQ3oiyJbtENoft90trJtnWYvPHXaTB0sspy1LIfSSQquru8N7KZJQ==}
+  /vite-plugin-windicss/1.2.0_vite@2.5.1:
+    resolution: {integrity: sha512-3teAmQHCDDDcy7On5fOj1sYTRVo8zAwJJd4SOapeGI7EuEzO2fHy6oDS6sPXVUnstbfoPbvrng1xvc3VAqI+sg==}
     peerDependencies:
       vite: ^2.0.1
     dependencies:
-      '@windicss/plugin-utils': 1.2.5
+      '@windicss/plugin-utils': 1.2.0
       chalk: 4.1.1
       debug: 4.3.2
       vite: 2.5.1
-      windicss: 3.1.5
+      windicss: 3.1.7
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -812,12 +802,6 @@ packages:
       rollup: 2.52.3
     optionalDependencies:
       fsevents: 2.3.2
-    dev: true
-
-  /windicss/3.1.5:
-    resolution: {integrity: sha512-sGi2YiN6Bp/vWJS0jlpJhMmh7O2TBQ+yTbL6oqoRXz32q1VKELOUMfF+5pdtVL5uoVnfKf4gOUQs2XKNgU30Lw==}
-    engines: {node: '>= 12'}
-    hasBin: true
     dev: true
 
   /windicss/3.1.7:

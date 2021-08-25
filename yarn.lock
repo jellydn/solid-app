@@ -741,7 +741,7 @@ vite-plugin-solid@2.0.1:
     solid-refresh "^0.2.1"
     vite "^2.4.2"
 
-vite-plugin-windicss@^1.2.0:
+vite-plugin-windicss@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/vite-plugin-windicss/-/vite-plugin-windicss-1.2.0.tgz#6b21e76f3aae1cd2f71c548c4bfe8d87b4328ad0"
   integrity sha512-3teAmQHCDDDcy7On5fOj1sYTRVo8zAwJJd4SOapeGI7EuEzO2fHy6oDS6sPXVUnstbfoPbvrng1xvc3VAqI+sg==
