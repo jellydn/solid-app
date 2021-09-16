@@ -1016,7 +1016,12 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.1.1, solid-js@^1.0.3:
+solid-js@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.1.4.tgz#ceba54d6b60f66692f8a072fb7419e94cfbcdd65"
+  integrity sha512-u3rvemWTQQ1ab9YrrRR+bUi7Daq5ZRVlR6gEDsHrRYC5uYFkFGGRt/ibjo+OsBxjbPRxGzy7jel3mfTZiiuNzA==
+
+solid-js@^1.0.3:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.1.1.tgz#d9bdd333bf2ac792edd39bfe58f6b7320ba694aa"
   integrity sha512-BtNNMUjBGtkx4viW5q/oqU4DOHa3WRhylN302cVVIeiBUGw6uzAE+NhNF12bAvSYJOCHLyGHpUEIeWklkeGgsg==
