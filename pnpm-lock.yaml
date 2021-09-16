@@ -2,7 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   solid-js: 1.1.4
-  vite: 2.5.1
+  vite: 2.5.7
   vite-plugin-solid: 2.0.1
   vite-plugin-windicss: 1.4.3
   windicss: 3.1.7
@@ -11,9 +11,9 @@ dependencies:
   solid-js: 1.1.4
 
 devDependencies:
-  vite: 2.5.1
+  vite: 2.5.7
   vite-plugin-solid: 2.0.1
-  vite-plugin-windicss: 1.4.3_vite@2.5.1
+  vite-plugin-windicss: 1.4.3_vite@2.5.7
   windicss: 3.1.7
 
 packages:
@@ -1190,7 +1190,7 @@ packages:
       - supports-color
     dev: true
 
-  /vite-plugin-windicss/1.4.3_vite@2.5.1:
+  /vite-plugin-windicss/1.4.3_vite@2.5.7:
     resolution: {integrity: sha512-gHlN+2kQxMI3mgAv0hMXEMPk2JRSYtqD8POwlSl+ZKMF7nfB3lxZVT65xIk14y33tYLFtj32l+xr/4CEKrShCA==}
     peerDependencies:
       vite: ^2.0.1
@@ -1198,7 +1198,7 @@ packages:
       '@windicss/plugin-utils': 1.4.3
       chalk: 4.1.2
       debug: 4.3.2
-      vite: 2.5.1
+      vite: 2.5.7
       windicss: 3.1.7
     transitivePeerDependencies:
       - supports-color
@@ -1215,6 +1215,19 @@ packages:
       postcss: 8.3.6
       resolve: 1.20.0
       rollup: 2.52.3
+    optionalDependencies:
+      fsevents: 2.3.2
+    dev: true
+
+  /vite/2.5.7:
+    resolution: {integrity: sha512-hyUoWmRPhjN1aI+ZSBqDINKdIq7aokHE2ZXiztOg4YlmtpeQtMwMeyxv6X9YxHZmvGzg/js/eATM9Z1nwyakxg==}
+    engines: {node: '>=12.2.0'}
+    hasBin: true
+    dependencies:
+      esbuild: 0.12.22
+      postcss: 8.3.6
+      resolve: 1.20.0
+      rollup: 2.56.3
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
