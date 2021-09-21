@@ -15,6 +15,6 @@
     "windicss": "3.1.7"
   },
   "dependencies": {
-    "solid-js": "1.1.4"
+    "solid-js": "1.1.5"
   }
 }
