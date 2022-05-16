@@ -12,7 +12,7 @@
     "vite": "2.5.7",
     "vite-plugin-solid": "2.0.1",
     "vite-plugin-windicss": "1.4.7",
-    "windicss": "3.1.8"
+    "windicss": "3.5.3"
   },
   "dependencies": {
     "solid-js": "1.1.5"
