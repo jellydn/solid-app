@@ -1,5 +1,7 @@
 ## Usage
 
+[![Solid - Reactive Javascript Library](https://img.youtube.com/vi/J4kSkrbD7Vc/0.jpg)](https://www.youtube.com/watch?v=J4kSkrbD7Vc)
+
 Those templates dependencies are maintained via [pnpm](https://pnpm.js.org/) via `pnpm up -Lri`.
 
 This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
@@ -7,6 +9,7 @@ This is the reason you see a `pnpm-lock.yaml`. That being said, any package mana
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
+
 ### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
 ## Available Scripts
